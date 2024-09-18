@@ -1,0 +1,43 @@
+body {
+    padding: 2rem;
+    font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+    font-size: 2rem;
+    color: #27ae60;
+    text-align: center;
+    border-bottom: 2px solid green;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #bdc3c7;
+    background-color: ghostwhite;
+}
+
+table td, table th {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+table th {
+    background-color: #2980b9;
+    color: white;
+}
+
+.precio {
+    color: #e74c3c;
+    font-weight: bolder;
+}
+
+main {
+    width: 900px;
+    margin: 0 auto;
+}
+
+img {
+    width: 150px;
+}
